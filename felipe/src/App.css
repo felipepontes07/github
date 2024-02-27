@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.profile-container {
+  max-width: 600px;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  border-color: black;
+  border-style: double;
+  border-radius: 25px;
+  background-color: rgb(228, 219, 219);
+}
+
+img.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.profile-info {
+  margin-bottom: 20px;
+}
+
+.profile-info p {
+  margin: 5px;
+}
+
+input {
+  text-align: center;
+  width: 270px;
+}
